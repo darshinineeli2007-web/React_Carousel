@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+}
+
+.carousel {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.carousel h1 {
+  margin-bottom: 25px;
+}
+
+.carousel-image {
+  width: 600px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background: #ddd;
+}
