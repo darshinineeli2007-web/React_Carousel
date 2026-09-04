@@ -1,8 +1,5 @@
 # Ex05 Image Carousel
-
-## Date:
-
-04/09/2026
+## Date:04/09/2026
 
 ## AIM
 
@@ -153,7 +150,6 @@ button:hover {
   background: #ddd;
 }
 ```
-
 ## OUTPUT
 
 The React Image Carousel displays images with **Previous** and **Next** navigation buttons. The images automatically change every 3 seconds.
@@ -162,7 +158,5 @@ The React Image Carousel displays images with **Previous** and **Next** navigati
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 
-
 ## RESULT
-
 The program for creating an Image Carousel using React was executed successfully.
