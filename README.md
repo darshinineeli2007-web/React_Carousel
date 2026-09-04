@@ -2,7 +2,6 @@
 ## Date:04/09/2026
 
 ## AIM
-
 To create an Image Carousel using React.
 
 ## ALGORITHM
@@ -151,7 +150,6 @@ button:hover {
 }
 ```
 ## OUTPUT
-
 The React Image Carousel displays images with **Previous** and **Next** navigation buttons. The images automatically change every 3 seconds.
 ![alt text](image-3.png)
 ![alt text](image-4.png)
